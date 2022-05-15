@@ -5,7 +5,7 @@ The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images wi
 ## Description of FineFM
 ### Train Set and Validation Set
 |  | Train | Val | Sum|
-|--|--|--|--|
+|:--:|:--:|:--:|:--:|
 | Image Number | 12,131 | 1,733 | 13,864 |
 | *mask* | 4,239 | 615 | 4,854 |
 | *face* | 6,082 | 793 | 6,875 |
@@ -14,7 +14,7 @@ The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images wi
 
 ### Test Set
 |  | T_easy | T_mid | T_hard | Sum |
-|--|--|--|--| -- |
+|:--:|:--:|:--:|:--:|:--:|
 | Image Number | 1,600 | 1,135 | 356 | 3,091 |
 | *mask* | 400 | 636 | 1,814 | 2,850 |
 | *face* | 400 | 628 | 337 | 1,365 |
@@ -25,6 +25,8 @@ The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images wi
 ## Download Link:
 - [Google Drive](https://drive.google.com/drive/folders/1cereKlAqYJJohsgv7_tm1c22Dqw95FI5?usp=sharing)
 
-- [Kaggle](https://www.kaggle.com/datasets/xiaohongli1999/finefm-dataset)
 - [OneDrive]()
+
+- [Kaggle](https://www.kaggle.com/datasets/xiaohongli1999/finefm-dataset)
+
 - [BaiduDisk]()
