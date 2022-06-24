@@ -5,7 +5,7 @@ The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images wi
 ![hadoop](https://github.com/HongliXiao/FineFM/blob/main/thumbnail.png?raw=true)
 
 ## Statistics of the FineFM dataset
-Train set and validation set
+### 1. Train set and validation set
 |  | Train | Val | Sum|
 |:--:|:--:|:--:|:--:|
 | **Image Number** | 12,131 | 1,733 | 13,864 |
@@ -14,7 +14,7 @@ Train set and validation set
 | ***mask_chin*** | 5,638 | 795 | 6,433 |
 | ***mask_mouth_chin*** | 3,211 | 447 | 3,658 |
 
-Test set
+### 2. Test set
 |  | T_easy | T_mid | T_hard | Sum |
 |:--:|:--:|:--:|:--:|:--:|
 | **Image Number** | 1,600 | 1,135 | 356 | 3,091 |
@@ -23,21 +23,14 @@ Test set
 | ***mask_chin*** | 400 | 675 | 223 | 1,298 |
 | ***mask_mouth_chin*** | 400 | 667 | 326 | 1,393 |
 
-## The proposed ECA_YOLOX-S model
+### 3. Comparison of class balance
 
-1. network structure
-![hadoop](https://github.com/HongliXiao/FineFM/blob/main/ECA-YOLOX-S.png?raw=true)
+<figure class="half">
+    <img src="https://github.com/HongliXiao/FineFM/blob/main/class_balance_comparison/1_classPerentage.png?raw=true">
+    <img src="https://github.com/HongliXiao/FineFM/blob/main/class_balance_comparison/2_headTailClass.png?raw=true">
+</figure>
 
-2. download link
-- [Google Drive](https://drive.google.com/file/d/1RWuX18-edtLJ0_30M5p79Q4Ki1o37rd7/view?usp=sharing)
-
-
-- [BaiduDisk](https://pan.baidu.com/s/1SdQGaq-VJA74sGoy2vizHQ) with extraction code: vtxt
-
-## Visual results obtained by ECA_YOLOX-S
-![hadoop](https://github.com/HongliXiao/FineFM/blob/main/results.png?raw=true)
-
-## Download Link of FineFM:
+## Download link of FineFM:
 We will post it later.
 
 - [Google Drive]()
@@ -47,4 +40,17 @@ We will post it later.
 - [Kaggle]()
 
 - [BaiduDisk]() with extraction code: ****
+
+
+## The proposed ECA_YOLOX-S model
+### 1. Download link
+- [Google Drive](https://drive.google.com/file/d/1RWuX18-edtLJ0_30M5p79Q4Ki1o37rd7/view?usp=sharing)
+
+- [BaiduDisk](https://pan.baidu.com/s/1SdQGaq-VJA74sGoy2vizHQ) with extraction code: vtxt
+
+### 2. Network structure
+![hadoop](https://github.com/HongliXiao/FineFM/blob/main/ECA-YOLOX-S.png?raw=true)
+
+### 3. Visual results obtained by ECA_YOLOX-S
+![hadoop](https://github.com/HongliXiao/FineFM/blob/main/results.png?raw=true)
 
