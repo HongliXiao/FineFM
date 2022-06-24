@@ -2,7 +2,7 @@
 # FineFM
 The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images with four classes of face mask wearing conditions. 
 
-
+![hadoop](https://github.com/HongliXiao/FineFM/blob/main/thumbnail.png?raw=true)
 
 ## Statistics of the FineFM dataset
 Train set and validation set
@@ -31,7 +31,7 @@ Test set
 
 
 ## Visual results obtained by ECA_YOLOX-S
-![在这里插入图片描述](https://img-blog.csdnimg.cn/15b3ae14ddd440fd82a7ba7c0293c744.png)
+![hadoop](https://github.com/HongliXiao/FineFM/blob/main/results.png?raw=true)
 
 ## Download Link of FineFM:
 - [Google Drive]()
