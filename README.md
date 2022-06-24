@@ -25,10 +25,14 @@ Test set
 
 ## The proposed ECA_YOLOX-S model
 
-
+1. network structure
 ![hadoop](https://github.com/HongliXiao/FineFM/blob/main/ECA-YOLOX-S.png?raw=true)
 
+2. download link
+- [Google Drive](https://drive.google.com/file/d/1RWuX18-edtLJ0_30M5p79Q4Ki1o37rd7/view?usp=sharing)
 
+
+- [BaiduDisk](https://pan.baidu.com/s/1SdQGaq-VJA74sGoy2vizHQ) with extraction code: vtxt
 
 ## Visual results obtained by ECA_YOLOX-S
 ![hadoop](https://github.com/HongliXiao/FineFM/blob/main/results.png?raw=true)
