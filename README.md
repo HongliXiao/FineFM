@@ -26,11 +26,7 @@ The Fine-grained Face Mask (FineFM) dataset contains a total of 16,955 images wi
 ### 3. Comparison of class balance
 
 <figure>
-    <img src="https://github.com/HongliXiao/FineFM/blob/main/class_balance_comparison/2_headTailClass.png?raw=true", width="600"/>
-</figure>
-
-<figure>
-    <img src="https://github.com/HongliXiao/FineFM/blob/main/class_balance_comparison/2_headTailClass.png?raw=true", width="600"/>
+    <img src="https://github.com/HongliXiao/FineFM/blob/main/class_balance_comparison.png">
 </figure>
 
 ## Download link of FineFM:
