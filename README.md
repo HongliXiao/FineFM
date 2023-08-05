@@ -51,3 +51,13 @@ We will post it later.
 ### 3. Visual results obtained by ECA_YOLOX-S
 ![hadoop](https://github.com/HongliXiao/FineFM/blob/main/results.png?raw=true)
 
+## Citation
+'''
+@article{xiao2023fine,
+  title={A Fine-grained Detector of Face Mask Wearing Status Based on Improved YOLOX},
+  author={Xiao, Hongli and Wang, Bingshu and Zheng, Jiangbin and Liu, Licheng and Chen, CL Philip},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+'''
